@@ -514,7 +514,3 @@ O **Sistema Web de Gestão de Doação de Sangue** representa uma solução comp
 
 ---
 
-**Desenvolvido por:** Manus AI  
-**Data:** Fevereiro de 2025  
-**Versão:** 1.0.0  
-**Status:** Pronto para Uso
