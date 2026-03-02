@@ -21,7 +21,7 @@
 
 ## 🎯 Visão Geral
 
-O **Sistema Web de Gestão de Doação de Sangue** é uma aplicação completa desenvolvida para a Fundação Cultural Cassiano Ricardo, localizada em São José dos Campos, SP. O sistema otimiza o processo de doação de sangue, desde o cadastro do doador até o agendamento e acompanhamento, garantindo maior eficiência, transparência e acessibilidade.
+O **Sistema Web de Gestão de Doação de Sangue** é uma aplicação completa, localizada em São José dos Campos, SP. O sistema otimiza o processo de doação de sangue, desde o cadastro do doador até o agendamento e acompanhamento, garantindo maior eficiência, transparência e acessibilidade.
 
 **Objetivo Principal:** Centralizar e automatizar a gestão de doadores, agendamentos e estoque de sangue, melhorando a experiência do doador e facilitando o trabalho administrativo da instituição.
 
@@ -503,5 +503,10 @@ O **Sistema Web de Gestão de Doação de Sangue** representa uma solução comp
 - ✅ Facilidade de acesso para doadores
 - ✅ Relatórios e análises em tempo real
 
+<<<<<<< HEAD
 
 ---
+=======
+
+
+>>>>>>> 4a220346312e5db84da10efbc3159c8c5b020938
