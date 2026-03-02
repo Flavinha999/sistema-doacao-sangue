@@ -1,0 +1,4 @@
+node_modules/
+doacao_sangue_backend/node_modules/
+doacao_sangue_frontend/node_modules/
+.env
