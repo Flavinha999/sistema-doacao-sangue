@@ -492,7 +492,7 @@ Content-Type: application/json
 
 ## 📊 Conclusão
 
-O **Sistema Web de Gestão de Doação de Sangue** representa uma solução completa e moderna para otimizar o processo de doação de sangue na Fundação Cultural Cassiano Ricardo. Com uma arquitetura bem definida, tecnologias atuais e foco em segurança e usabilidade, o sistema está pronto para melhorar significativamente a experiência dos doadores e a eficiência operacional da instituição.
+O **Sistema Web de Gestão de Doação de Sangue** representa uma solução completa e moderna para otimizar o processo de doação de sangue. Com uma arquitetura bem definida, tecnologias atuais e foco em segurança e usabilidade, o sistema está pronto para melhorar significativamente a experiência dos doadores e a eficiência operacional da instituição.
 
 ### Benefícios Esperados
 
