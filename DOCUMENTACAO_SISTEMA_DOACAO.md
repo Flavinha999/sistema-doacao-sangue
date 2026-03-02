@@ -503,7 +503,6 @@ O **Sistema Web de Gestão de Doação de Sangue** representa uma solução comp
 - ✅ Facilidade de acesso para doadores
 - ✅ Relatórios e análises em tempo real
 
-<<<<<<< HEAD
 
 ---
 =======
